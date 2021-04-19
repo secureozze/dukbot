@@ -1,5 +1,8 @@
 # 덕봇
-![duckbot](https://i.esdrop.com/d/NKV1dRXvps.png)
+
+<p align="center">
+<img src="https://i.esdrop.com/d/NKV1dRXvps.png">
+</p>
 
 ### 🏆Prize
 
